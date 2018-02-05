@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "atob": "^2.0.3",
+    "bplist-parser": "^0.1.1",
+    "buffer": "^5.0.8",
+    "fs-extra": "^5.0.0",
+    "node-sketch": "^0.8.1",
+    "optimist": "^0.6.1",
+    "os": "^0.1.1",
+    "unzip": "^0.1.11"
+  }
+}
